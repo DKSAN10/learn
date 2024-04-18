@@ -1,1 +1,4 @@
-
+Base:
+1) https://tproger.ru/translations/yaml-za-5-minut-sintaksis-i-osnovnye-vozmozhnosti
+2) https://1cloud.ru/blog/yaml_for_beginners
+3) https://blog.skillfactory.ru/glossary/yaml/
